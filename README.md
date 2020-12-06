@@ -1,5 +1,7 @@
 # MetaGenesis
 
+New project page: http://metagen.ai/
+
 We want to bring [Life](https://www.wikiwand.com/en/Artificial_life) to the Metaverese:)
 
 Discord server: https://discord.gg/HQ8Crcw
